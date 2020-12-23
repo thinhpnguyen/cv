@@ -1,0 +1,35 @@
+body {
+  background-color: #fbf7f0;
+}
+
+hr {
+  margin : 3em auto;
+  border-style : dotted none none none;
+  border-width : 0.3em;
+  border-color : #cdc9c3;
+  width: 5%;
+}
+
+h1{
+  color: #df7861;
+}
+
+h3{
+  color: #df7861;
+}
+thead{
+  color: #df7861;
+}
+a {
+  text-decoration: none;
+  color: gray;
+  /* margin: auto 3em;*/
+  transition: background-color 1s;
+}
+a:hover{
+  background-color: #e8e8e8;
+}
+.anime{
+  color: black;
+  margin: auto;
+}
